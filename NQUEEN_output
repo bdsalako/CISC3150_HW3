@@ -1,0 +1,79 @@
+
+C:\OBJ\HW3>java NQueensProb
+How many queens do you want to place on the board: 2
+Solution does not exist for N = 2
++ +
++ +
+Solution is found for all size of N with the exceptionn of 2 and 3
+
+C:\OBJ\HW3>java NQueensProb
+How many queens do you want to place on the board: 3
+Solution does not exist for N = 3
++ + +
++ + +
++ + +
+Solution is found for all size of N with the exceptionn of 2 and 3
+
+C:\OBJ\HW3>java NQueensProb
+How many queens do you want to place on the board: 4
++ Q + +
++ + + Q
+Q + + +
++ + Q +
+Solution is found for all size of N with the exceptionn of 2 and 3
+
+C:\OBJ\HW3>java NQueensProb
+How many queens do you want to place on the board: 7
+Q + + + + + +
++ + Q + + + +
++ + + + Q + +
++ + + + + + Q
++ Q + + + + +
++ + + Q + + +
++ + + + + Q +
+Solution is found for all size of N with the exceptionn of 2 and 3
+
+C:\OBJ\HW3>java NQueensProb
+How many queens do you want to place on the board: 15
+Q + + + + + + + + + + + + + +
++ + Q + + + + + + + + + + + +
++ + + + Q + + + + + + + + + +
++ Q + + + + + + + + + + + + +
++ + + + + + + + + Q + + + + +
++ + + + + + + + + + + Q + + +
++ + + + + + + + + + + + + Q +
++ + + Q + + + + + + + + + + +
++ + + + + + + + + + + + Q + +
++ + + + + + + + Q + + + + + +
++ + + + + Q + + + + + + + + +
++ + + + + + + + + + + + + + Q
++ + + + + + Q + + + + + + + +
++ + + + + + + + + + Q + + + +
++ + + + + + + Q + + + + + + +
+Solution is found for all size of N with the exceptionn of 2 and 3
+
+C:\OBJ\HW3>java NQueensProb
+How many queens do you want to place on the board: 20
+Q + + + + + + + + + + + + + + + + + + +
++ + Q + + + + + + + + + + + + + + + + +
++ + + + Q + + + + + + + + + + + + + + +
++ Q + + + + + + + + + + + + + + + + + +
++ + + Q + + + + + + + + + + + + + + + +
++ + + + + + + + + + + + Q + + + + + + +
++ + + + + + + + + + + + + + Q + + + + +
++ + + + + + + + + + + Q + + + + + + + +
++ + + + + + + + + + + + + + + + + Q + +
++ + + + + + + + + + + + + + + + + + + Q
++ + + + + + + + + + + + + + + + Q + + +
++ + + + + + + + Q + + + + + + + + + + +
++ + + + + + + + + + + + + + + Q + + + +
++ + + + + + + + + + + + + + + + + + Q +
++ + + + + + + Q + + + + + + + + + + + +
++ + + + + + + + + Q + + + + + + + + + +
++ + + + + + Q + + + + + + + + + + + + +
++ + + + + + + + + + + + + Q + + + + + +
++ + + + + Q + + + + + + + + + + + + + +
++ + + + + + + + + + Q + + + + + + + + +
+Solution is found for all size of N with the exceptionn of 2 and 3
+
+C:\OBJ\HW3>
