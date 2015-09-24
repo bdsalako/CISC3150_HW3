@@ -1,0 +1,3 @@
+NQueen problem is the maximum number of queens in a chessboard of N by N size such that no queen hurts each other.
+It's been found that N number of queens will be needed. Solution is available for a size of N with exception of 2 and 3.
+
